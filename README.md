@@ -1,6 +1,6 @@
 # ROS & Gazebo Lab Reports
 
-**Robotics Master's | Université Côte d’Azur**
+**Robotics & Mechatronics Engineering Master's | Polytech Nice-Sophia | Université Côte d’Azur Université Côte d’Azur**
 
 This repository serves as a technical archive of laboratory reports for the **ROS & Gazebo** course. It documents the systematic development of robotic control systems, ranging from basic message passing in ROS 2 to the autonomous operation of multi-jointed robotic manipulators in simulated environments.
 
