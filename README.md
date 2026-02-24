@@ -10,17 +10,17 @@ This repository serves as a technical archive of laboratory reports for the **RO
 
 The following reports detail the technical implementation, challenges, and results for each stage of the course:
 
-* **[Lab 1 & 2: Introduction to ROS 2](https://www.google.com/search?q=uploaded:Ros_Gazebo_Lab1%262_Report.pdf)**
+* **[Lab 1 & 2: Introduction to ROS 2]**
 * **Scope**: Development of custom C++ packages (`rclcpp`) to interface with `turtlesim`.
 * **Key Features**: Implementation of a `MinimalPublisher` node to remap joystick (`/joy`) and keyboard velocity commands, utilizing a custom `params.yaml` for dynamic gain adjustments.
 
 
-* **[Lab 3: Interbotix PX100 Control](https://www.google.com/search?q=uploaded:ROS_Gazebo_Lab3_Report.pdf)**
+* **[Lab 3: Interbotix PX100 Control]**
 * **Scope**: Low-level joint control and high-level MoveIt! integration for the PX100 arm.
 * **Key Features**: Real-time joint state analysis via `/px100/joint_states` and the development of an orchestrated C++ node to cycle between predefined pick-and-place positions.
 
 
-* **[Lab 4: Autonomous Arm Simulation](https://www.google.com/search?q=uploaded:ROS_Gazebo_Lab4.pdf)**
+* **[Lab 4: Autonomous Arm Simulation]**
 * **Scope**: Full physics simulation in Gazebo Fortress.
 * **Key Features**: Custom URDF configuration for friction/contact physics and the creation of a non-blocking Python state machine for autonomous object manipulation.
 
